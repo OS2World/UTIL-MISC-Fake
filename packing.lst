@@ -1,0 +1,7 @@
+
+ Length   Date    Time   CRC-32     Name
+ ------   ----    ----   ------     ----
+   3896  95-08-24  12:21  8370e418   fake.c       - C source
+   2560  95-08-24  13:05  d2410e5d   fake.exe     - req. EMX 09a runtime
+  25216  95-08-24  13:01  a76db2db   fake2.exe    - req. WARP only, will not run on 2.1
+    165  95-08-24  13:13  1211060f   file_id.diz  - about file
